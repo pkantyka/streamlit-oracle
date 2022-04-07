@@ -5,4 +5,4 @@ import cx_Oracle
 #    password="XXXXX",
 #    dsn="localhost/xepdb1")
 
-sl.write("Successfully run with CX Oracle")
+st.write("Successfully run with CX Oracle")
